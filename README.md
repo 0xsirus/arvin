@@ -9,7 +9,7 @@ to achieve more efficient coverage and higher number of bugs. Read the paper her
 
 [Arvin: Greybox Fuzzing Using Dynamic CFG Analysis](http://www.flux.utah.edu/paper/shahini-asiaccs23)
 
-This repository contains the core functionality of Arvin. Including the fuzzing engine and DCFG libraries and three
+This repository contains the core functionality of Arvin. Including the fuzzing engine, DCFG libraries and three
 default priority models.
  
 # Prerequisites:
