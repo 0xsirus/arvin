@@ -47,3 +47,5 @@ to start the fuzzing engine. For those cases, you can send a bug report to `angr
 
 Preferably don't compile your targets with `clang`. Specifically, Arvin will not work normally if your target has been 
 compiled with LLVM ASAN due to inconsistencies of LLVM instrumentation with dynamic Arvin instrumentation.
+
+\[1] [https://github.com/0xsirus/zharf](https://github.com/0xsirus/zharf)
